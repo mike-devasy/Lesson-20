@@ -1,0 +1,1 @@
+import{z as o,a as t,f as a,g as n,S as s,A as r,b as _}from"./index-BM3S7LO8.js";const c=_("div",null,"Page not found",-1),d={__name:"PageNotFound",setup(l){return(u,m)=>{const e=o("router-link");return t(),a(s,null,{default:n(()=>[c,r(e,{to:{name:"home"}})]),_:1})}}};export{d as default};
